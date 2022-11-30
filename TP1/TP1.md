@@ -17,7 +17,6 @@ sudo nano .bashrc
 
 
 
-
 ## 2) Editer les fichiers /boot/init
 
 **Procédé**
@@ -36,7 +35,7 @@ sudo nano /boot/initramfs-5.14.0-70.13.1.el9.aarch64.img
 ## 3) Fork Bomb (Pinguin version)
 
 **Procédé**
-p
+
 * Ajout d'une fonction dans le fichier /etc/profile
 
 
